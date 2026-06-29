@@ -65,6 +65,17 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* New games */
+#new-games .card {
+    border: 0
+}   
+
+/*Favourite games */
+#favourite-games .card {
+    border: 0;
+}
+
+
 /*.container,
 .row {
     border: 2px solid black;
