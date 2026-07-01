@@ -91,6 +91,14 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* Events */
+#student-discount {
+    background-color: var(--highlight-color);
+    color: white;
+    max-width: 320px;
+    margin: auto;
+}
+
 /* New games */
 #new-games .card {
     border: 0
